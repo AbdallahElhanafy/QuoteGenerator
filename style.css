@@ -1,0 +1,17 @@
+#mainBody h1 {
+    font-size: 4rem;
+    font-weight: bold;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+#mainBody p {
+    font-size: 1.5rem;
+    color: #000;
+   margin: 1rem;
+}
+
+.btn{
+    margin: 1rem;
+}
